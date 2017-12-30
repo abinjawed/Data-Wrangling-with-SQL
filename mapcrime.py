@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 18 20:12:24 2017
 
-@author: a1
+@author: abinjawed
 """
 #pip install gmplot
 #pip install --upgrade gmplot

@@ -1,0 +1,5 @@
+=== process_map() ===
+Tag-probl:  {'k': 'Ellip ht', 'v': '1624.112 (meters)'}
+Tag-probl:  {'k': 'Ortho ht', 'v': '1639.9 (meters)'}
+Tag-probl:  {'k': 'phone.alt', 'v': '303-569-3138'}
+{'problemchars': 3, 'lower': 1579396, 'other': 41762, 'lower_colon': 739161}

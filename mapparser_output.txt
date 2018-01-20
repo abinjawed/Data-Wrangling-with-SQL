@@ -1,0 +1,2 @@
+=== count_tags() ===
+defaultdict(<type 'int'>, {'node': 4682662, 'nd': 5349727, 'bounds': 1, 'member': 41706, 'tag': 2360322, 'relation': 2354, 'way': 518859, 'osm': 1})

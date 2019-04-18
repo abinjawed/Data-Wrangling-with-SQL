@@ -11,7 +11,7 @@ as value.
 import xml.etree.cElementTree as ET
 from collections import defaultdict
 
-# return a dictionary of top level tags and their counts
+# return a dictionary of the top level tags and their counts
 def count_tags(filename):
     tags_dict = defaultdict(int)
 
